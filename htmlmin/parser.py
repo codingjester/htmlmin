@@ -28,7 +28,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 from __future__ import unicode_literals
 import sys
 
-from io import StringIO
+from StringIO import StringIO
 
 import re
 try:
